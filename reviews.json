@@ -1,0 +1,16 @@
+[
+    {
+        "_id": "r001",
+        "user_id": "u001",
+        "adventure_id": "adv001",
+        "rating": 4,
+        "comment": "Amazing experience!"
+    },
+    {
+        "_id": "r002",
+        "user_id": "u002",
+        "adventure_id": "adv002",
+        "rating": 5,
+        "comment": "Super fun and safe!"
+    }
+]

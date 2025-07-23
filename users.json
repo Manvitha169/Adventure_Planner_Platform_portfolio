@@ -1,0 +1,14 @@
+[
+    {
+        "_id": "u001",
+        "name": "Manvitha Lakshmi",
+        "email": "manvitha@example.com",
+        "phone": "9876543210"
+    },
+    {
+        "_id": "u002",
+        "name": "Ravi Kumar",
+        "email": "ravi@example.com",
+        "phone": "9123456780"
+    }
+]
